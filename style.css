@@ -1,0 +1,51 @@
+h1 {
+    padding: 20px;
+}
+video {
+    margin: 20px;
+}
+.text p {
+    margin: 20px;
+}
+.card{
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+}
+span {
+    font-weight: bold;
+}
+#red {
+    color:brown;
+}
+form {
+    margin-right: 20px;
+}
+.bar{
+    background-color: brown;
+    color: white;
+}
+footer {
+    background-color: black;
+}
+.mail form {
+    padding-top: 30px;
+}
+.sosial{
+    margin: 10px;
+}
+.fot {
+    background-color: black;
+    color: white;
+}
+.copy {
+    color: white;
+    margin: 10px;
+    padding:0px;
+}
+.con {
+    margin: 20px;
+}
+.au {
+    padding-top: 20px;
+}
